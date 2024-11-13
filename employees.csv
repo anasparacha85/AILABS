@@ -1,0 +1,6 @@
+EmployeeID,Name,Gender,Department,Position,Salary
+1,John Doe,Male,HR,Manager,50000
+2,Jane Smith,Female,IT,Developer,60000
+3,Alex Wong,,Finance,Analyst,55000
+4,Maria Lee,Female,Marketing,Executive,52000
+5,Tom Brown,,Sales,Associate,45000
